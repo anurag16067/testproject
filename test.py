@@ -1,1 +1,2 @@
-print("Hello Mr India")
+print("Hello Mr India");
+print("Git tutorial");
